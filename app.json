@@ -1,11 +1,11 @@
 {
-  "name": "wa bot md by zoro md",
-  "description": "Whatsapp bot. recode by lua ser ofc",
+  "name": "Pekka-v22",
+  "description": "Whatsapp bot",
   "keywords": [
     "whatsapp bot",
     "nodejs"
   ],
-  "repository": "https://github.com/xxirfanx/zoromd",
+  "repository": "https://github.com/LEO1234567890LEO/zoromd",
     "buildpacks": [
     {
       "url": "heroku/nodejs"
